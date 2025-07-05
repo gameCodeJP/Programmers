@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Level1">
+      <UniqueIdentifier>{40bece94-0f1e-43e8-a033-7af4f6bb3f95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level2">
+      <UniqueIdentifier>{3945cf2e-9694-4947-a2af-b2809487a034}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Level3">
+      <UniqueIdentifier>{202baa41-74e9-43cb-9042-4ca0b94b5535}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\프로그래머스 풀이\Programmers\카카오 프렌즈 컬러링 북\비밀 코드 해독.cpp">
+      <Filter>Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\프로그래머스 풀이\Programmers\카카오 프렌즈 컬러링 북\완전범죄.cpp">
+      <Filter>Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\프로그래머스 풀이\Programmers\카카오 프렌즈 컬러링 북\카카오프렌즈 컬러링북.cpp">
+      <Filter>Level2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
