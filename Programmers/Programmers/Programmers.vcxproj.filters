@@ -10,16 +10,34 @@
     <Filter Include="Level3">
       <UniqueIdentifier>{202baa41-74e9-43cb-9042-4ca0b94b5535}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Level2\2025-07-06">
+      <UniqueIdentifier>{0d7730fb-dca2-4201-b67d-d9080ba8a357}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\프로그래머스 풀이\Programmers\카카오 프렌즈 컬러링 북\비밀 코드 해독.cpp">
-      <Filter>Level2</Filter>
+    <ClCompile Include="비밀 코드 해독.cpp">
+      <Filter>Level2\2025-07-06</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\프로그래머스 풀이\Programmers\카카오 프렌즈 컬러링 북\완전범죄.cpp">
-      <Filter>Level2</Filter>
+    <ClCompile Include="서버 증설 횟수.cpp">
+      <Filter>Level2\2025-07-06</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\프로그래머스 풀이\Programmers\카카오 프렌즈 컬러링 북\카카오프렌즈 컬러링북.cpp">
-      <Filter>Level2</Filter>
+    <ClCompile Include="완전범죄.cpp">
+      <Filter>Level2\2025-07-06</Filter>
+    </ClCompile>
+    <ClCompile Include="카카오프렌즈 컬러링북.cpp">
+      <Filter>Level2\2025-07-06</Filter>
+    </ClCompile>
+    <ClCompile Include="석유 시츄.cpp">
+      <Filter>Level2\2025-07-06</Filter>
+    </ClCompile>
+    <ClCompile Include="후보키.cpp">
+      <Filter>Level2\2025-07-06</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬의 곱셈.cpp">
+      <Filter>Level2\2025-07-06</Filter>
+    </ClCompile>
+    <ClCompile Include="지게차와 크레인.cpp">
+      <Filter>Level2\2025-07-06</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
